@@ -110,7 +110,7 @@
 
                 <div class="bg-gray-800 pt-3">
                     <div class="rounded-tl-3xl bg-gradient-to-r from-blue-900 to-gray-800 p-4 shadow text-2xl text-white">
-                        <h1 class="font-bold pl-2 text-center">Analytics</h1>
+                        <h1 class="font-bold pl-2 text-center">Analytical</h1>
                     </div>
                 </div>
 
@@ -123,12 +123,12 @@
                                     <div class="rounded-full p-5 bg-green-600"><i class="fa fa-id-card fa-4x" aria-hidden="true"></i></div>
                                 </div>
                                 <div class="flex-1 text-right md:text-center">
-                                    <h2 class="font-bold uppercase text-gray-600">jumlah siswa</h2>
-                                   <p class="font-bold text-3xl">1000 <span class="text-green-500"></span></p>
+                                    <h2 class="font-bold uppercase text-gray-600">Jumlah Siswa</h2>
+                                   <p class="font-bold text-3xl">1500 <span class="text-green-500"></span></p>
                                 </div>
                             </div>
-                        </div>
-                     
+                        </div> 
+             
                     <!--/Graph Card-->
                 </div>
 
@@ -147,7 +147,7 @@
                                         "labels": ["January", "February", "March", "April", "May", "June", "July"],
                                         "datasets": [{
                                             "label": "Likes",
-                                            "data": [65, 59, 80, 81, 56, 55, 40],
+                                            "data": [60, 75, 80, 95, 60, 68, 50],
                                             "fill": false,
                                             "backgroundColor": ["rgba(255, 99, 132, 0.2)", "rgba(255, 159, 64, 0.2)", "rgba(255, 205, 86, 0.2)", "rgba(75, 192, 192, 0.2)", "rgba(54, 162, 235, 0.2)", "rgba(153, 102, 255, 0.2)", "rgba(201, 203, 207, 0.2)"],
                                             "borderColor": ["rgb(255, 99, 132)", "rgb(255, 159, 64)", "rgb(255, 205, 86)", "rgb(75, 192, 192)", "rgb(54, 162, 235)", "rgb(153, 102, 255)", "rgb(201, 203, 207)"],
@@ -184,7 +184,7 @@
                                         "labels": ["P1", "P2", "P3"],
                                         "datasets": [{
                                             "label": "Issues",
-                                            "data": [300, 50, 100],
+                                            "data": [300, 150, 100],
                                             "backgroundColor": ["rgb(255, 99, 132)", "rgb(54, 162, 235)", "rgb(255, 205, 86)"]
                                         }]
                                     }
@@ -205,17 +205,17 @@
                                 <table class="w-full p-5 text-gray-700">
                                     <thead>
                                     <tr>
-                                        <th class="text-left text-blue-900">Name</th>
-                                        <th class="text-left text-blue-900">Side</th>
-                                        <th class="text-left text-blue-900">Role</th>
+                                        <th class="text-left text-green-900">Name</th>
+                                        <th class="text-left text-green-900">Side</th>
+                                        <th class="text-left text-green-900">Role</th>
                                     </tr>
                                     </thead>
 
                                     <tbody>
                                     <tr>
-                                        <td>Obi Wan Kenobi</td>
-                                        <td>Light</td>
-                                        <td>Jedi</td>
+                                        <td>Valeri</td>
+                                        <td>Ivan</td>
+                                        <td>John</td>
                                     </tr>
                                     <tr>
                                         <td>Greedo</td>
